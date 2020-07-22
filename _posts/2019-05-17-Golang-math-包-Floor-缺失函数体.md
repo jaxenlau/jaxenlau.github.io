@@ -4,7 +4,7 @@ title: "Golang math 包 Floor 缺失函数体"
 date: 2019-05-17 19:22:36 +0800
 categories: Golang
 tags: [function, golang]
-typora-root-url: ../../owenliu1122.github.io
+typora-root-url: ../../jaxenlau.github.io
 typora-copy-images-to: ../images
 ---
 

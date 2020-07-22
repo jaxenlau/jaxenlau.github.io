@@ -19,7 +19,7 @@ Autor: "owenliu"
 
 ## **创建文章**
 
-博客的项目目录为 `owenliu1122.github.io`,
+博客的项目目录为 `jaxenlau.github.io`,
 
 发布博客数据文件到 `_post` 目录下即可
 
@@ -60,7 +60,7 @@ Autor: "owenliu"
    ![My helpful screenshot](/assets/screenshot.jpg)
    ```
 
-4. 此步骤非绝对：作者写博客时在本地使用编辑器（本人为 Typora）需要在 yaml 说明头中添加 `typora-root-url: ../../owenliu1122.github.io`
+4. 此步骤非绝对：作者写博客时在本地使用编辑器（本人为 Typora）需要在 yaml 说明头中添加 `typora-root-url: ../../jaxenlau.github.io`
 
    例如：
 
@@ -69,7 +69,7 @@ Autor: "owenliu"
    layout: post
    title:  "并发和并行的区别 "
    Autor: "owenliu"
-   typora-root-url: ../../owenliu1122.github.io
+   typora-root-url: ../../jaxenlau.github.io
    ---
    ```
 
@@ -107,7 +107,7 @@ ERROR -- : fsevent: running worker failed: incompatible character encodings: ASC
 
 > 修改完重新`jekyll serve`即可支持中文文件名。
 
-⚠️注意：这里修改库文件有可能失败，解决方案参考[这里](https://owenliu1122.github.io/mac/2019/02/25/%E5%85%B3%E4%BA%8E-MAC-%E7%B3%BB%E7%BB%9F%E6%B2%A1%E6%9C%89%E4%BF%AE%E6%94%B9-usrbin-%E5%92%8C-usrlib-%E6%96%87%E4%BB%B6%E5%A4%B9%E6%9D%83%E9%99%90%E9%97%AE%E9%A2%98/)
+⚠️注意：这里修改库文件有可能失败，解决方案参考[这里](https://jaxenlau.github.io/mac/2019/02/25/%E5%85%B3%E4%BA%8E-MAC-%E7%B3%BB%E7%BB%9F%E6%B2%A1%E6%9C%89%E4%BF%AE%E6%94%B9-usrbin-%E5%92%8C-usrlib-%E6%96%87%E4%BB%B6%E5%A4%B9%E6%9D%83%E9%99%90%E9%97%AE%E9%A2%98/)
 
 2. **基于 Docker 搭建本地 jykell 环境【[转自](https://archerwq.github.io/2017/09/21/setup-jekyll-locally-with-docker/)】**
 
@@ -135,7 +135,7 @@ ERROR -- : fsevent: running worker failed: incompatible character encodings: ASC
 
     - **3999:4000**: 把容器的 4000 端口映射到宿主机的 3999 端口
 
-    - **xxxxx/owenliu1122.github.io:/srv/jekyll/** 把宿主机上的 Jekyll Site 所在目录映射到容器的**/srv/jekyll/**目录，Jekyll 默认从这个目录读 Jekyll Site
+    - **xxxxx/jaxenlau.github.io:/srv/jekyll/** 把宿主机上的 Jekyll Site 所在目录映射到容器的**/srv/jekyll/**目录，Jekyll 默认从这个目录读 Jekyll Site
 
     **启动 Docker 容器**
 

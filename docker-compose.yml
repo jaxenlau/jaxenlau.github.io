@@ -2,7 +2,7 @@ version: '2'
 
 services:
   jekyll:
-    image: owenliu1122/jekyll:v1.0.1
+    image: jaxen/jekyll:v1.0.0
     command: jekyll serve --watch --force_polling --verbose
     ports:
       - 4000:4000

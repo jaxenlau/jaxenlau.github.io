@@ -4,7 +4,7 @@ title: docker-compose 部署 etcd
 date: 2019-04-28 17:43:16 +0800
 categories: etcd
 tags: [etcd, docker-compose]
-typora-root-url: ../../owenliu1122.github.io
+typora-root-url: ../../jaxenlau.github.io
 typora-copy-images-to: ../images
 ---
 

@@ -4,7 +4,7 @@ title: "Goland 使用 go modules 的正确姿势"
 date: 2019-05-24 11:58:36 +0800
 categories: Golang
 tags: [goland, go modules]
-typora-root-url: ../../owenliu1122.github.io
+typora-root-url: ../../jaxenlau.github.io
 typora-copy-images-to: ../images
 ---
 

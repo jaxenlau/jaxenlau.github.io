@@ -4,7 +4,7 @@ title: docker-compose 部署 es 和 kibana
 date: 2019-04-28 19:44:34 +0800
 categories: elasticsearch
 tags: [elasticsearch, docker-compose, kibana]
-typora-root-url: ../../owenliu1122.github.io
+typora-root-url: ../../jaxenlau.github.io
 typora-copy-images-to: ../images
 ---
 

@@ -4,7 +4,7 @@ title: docker 部署 MySQL
 date: 2019-04-29 12:17:10 +0800
 categories: MySQL
 tags: [docker, mysql]
-typora-root-url: ../../owenliu1122.github.io
+typora-root-url: ../../jaxenlau.github.io
 typora-copy-images-to: ../images
 ---
 

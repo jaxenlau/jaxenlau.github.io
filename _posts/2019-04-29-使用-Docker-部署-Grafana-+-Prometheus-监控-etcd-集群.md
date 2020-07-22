@@ -4,7 +4,7 @@ title: 使用 Docker 部署 Grafana + Prometheus 监控 etcd 集群
 date: 2019-04-29 11:00:56 +0800
 categories: etcd
 tags: [docker-compose, grafana, prometheus]
-typora-root-url: ../../owenliu1122.github.io
+typora-root-url: ../../jaxenlau.github.io
 typora-copy-images-to: ../images
 ---
 

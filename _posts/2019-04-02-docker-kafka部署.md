@@ -7,7 +7,7 @@ tags:
   - docker-compose
   - kafka
 Autor: "owenliu"
-typora-root-url: ../../owenliu1122.github.io
+typora-root-url: ../../jaxenlau.github.io
 typora-copy-images-to: ../images
 ---
 在此记录使用 docker-compose 启动一个 kafka 集群的命令

@@ -7,7 +7,7 @@ tags:
   - https
   - nginx
 Autor: "owenliu"
-typora-root-url: ../../owenliu1122.github.io
+typora-root-url: ../../jaxenlau.github.io
 typora-copy-images-to: ../images
 ---
 之前实现了用Let ’ s Encrypt 生成SSL证书，现在将全部的域名强制实现https访问

@@ -3,7 +3,7 @@
 ## 构建 Docker 镜像
 
 ``` bash
-docker build -t owenliu1122/jekyll:v1.0.1 .
+docker build -t jaxen/jekyll:v1.0.0 .
 ```
 
 ## 启动容器服务

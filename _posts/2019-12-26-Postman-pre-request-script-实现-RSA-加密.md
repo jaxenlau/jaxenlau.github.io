@@ -267,5 +267,5 @@ pm.globals.unset("forgeJS");
 参考链接：
 
 - [原文链接](https://testerhome.com/topics/14869)
-- <https://github.com/owenliu1122/RSAForPostman>
+- <https://github.com/jaxenlau/RSAForPostman>
 - <https://github.com/digitalbazaar/forge/blob/master/README.md#rsa>

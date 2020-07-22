@@ -4,7 +4,7 @@ title: docker 部署 Redis
 date: 2019-04-29 12:15:11 +0800
 categories: Redis
 tags: [docker, redis]
-typora-root-url: ../../owenliu1122.github.io
+typora-root-url: ../../jaxenlau.github.io
 typora-copy-images-to: ../images
 description: docker 一键部署本地 Redis 测试环境
 ---

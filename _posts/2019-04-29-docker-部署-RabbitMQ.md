@@ -4,7 +4,7 @@ title: docker 部署 RabbitMQ
 date: 2019-04-29 12:12:45 +0800
 categories: RabbitMQ
 tags: [docker, rabbitmq]
-typora-root-url: ../../owenliu1122.github.io
+typora-root-url: ../../jaxenlau.github.io
 typora-copy-images-to: ../images
 description: docker 一键部署本地 RabbitMQ 测试环境
 ---
